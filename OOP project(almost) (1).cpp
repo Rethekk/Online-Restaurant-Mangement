@@ -5,6 +5,8 @@
 #include<fstream>
 using namespace std;
 
+fstream eeee;
+
 fstream regdata;
 fstream cou;
 static   const char *name;
